@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KowsalyaBalakrishnan
 - 👀 I’m interested in Java, Microservices
-- 🌱 I’m currently enhancing my knowledge in Java, Spring boot and Data Structures
+- 🌱 I’m currently enhancing my knowledge in Java, Microservices and Data Structures
 - 📫 Reach me at kowsalya.gb.krishnan@gmail.com
 
 <!---
